@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="35"
+     height="35"
+     viewBox="0 0 40 40"
+     fill="none"
+     class="lucide lucide-linkedin">
+
+  <!-- Consistent framed boundary -->
+  <circle cx="21.5" cy="21.5" r="18" fill="none"/>
+
+  <!-- Standardized styling + transform pipeline -->
+  <g transform="translate(8,8) scale(1.1)"
+     stroke="#1C1B20"
+     stroke-width="1.2"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <!-- LinkedIn avatar circle -->
+    <circle cx="4" cy="3.5" r="2" />
+
+    <!-- Left vertical bar -->
+    <rect x="2" y="7.5" width="4" height="12" />
+
+    <!-- Right profile block -->
+    <path d="M14 6.5a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 
+             2 2 0 0 0-2 2v7H8v-7a6 6 0 0 1 6-6z" />
+
+  </g>
+</svg>

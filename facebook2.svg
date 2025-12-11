@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="35"
+     height="35"
+     viewBox="0 0 40 40"
+     fill="none"
+     class="lucide lucide-facebook">
+
+  <!-- Brand circle frame (consistent across all converted icons) -->
+  <circle cx="21.5" cy="21.5" r="18" fill="none"/>
+
+  <!-- Harmonized transform + stroke weight + color token -->
+  <g transform="translate(8,8) scale(1.1)"
+     stroke="#B12CFE"
+     stroke-width="1.2"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <!-- Balanced Facebook "f" geometry -->
+    <path d="M16 0h-3a5 5 0 0 0-5 5v3H6v4h2v8h4v-8h3l1-4h-4V5a1 1 0 0 1 1-1h3z"/>
+
+  </g>
+</svg>
